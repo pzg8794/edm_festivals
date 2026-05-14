@@ -1,0 +1,10 @@
+# Keep sensitive travel docs out of git
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.webp
+.env
+secrets/
+private/
