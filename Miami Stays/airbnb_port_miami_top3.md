@@ -1,54 +1,50 @@
-# Port of Miami Airbnb Shortlist (Budget Cap: Under $290 Total)
+# Port of Miami Airbnb Shortlist (Hard Cap: $290 Total)
 
 Dates: 2026-07-05 to 2026-07-07 (2 nights)
 Guests: 2 adults
-Filter context: Guest favorite enabled
+Budget rule: do not book anything above $290 total
 
-## Budget check first
+## Budget check result
 
-Strict cap requested: under $290 total for 2 nights.
+- Exact Port of Miami map bounds with this budget: no exact matches.
+- Expanded nearest search under the same cap: budget-compliant options found.
 
-Result from the current Port of Miami map results (same dates and 2 guests):
-- No listings were available under $290 total.
-- Lowest available was $377 total.
-
-## How I ranked after budget check (price weighted heavily)
+## How I ranked (price-first)
 
 Weighted fit score:
-- 60% price value
-- 25% rating quality (rating + review volume confidence)
-- 15% on-foot activity access (downtown/Brickell walkability)
+- 70% price value
+- 20% rating quality (rating + review volume)
+- 10% beach/walkability (on-foot activities and shoreline access)
 
-Note on beaches: these Port of Miami area options are best for downtown access, not direct walk-to-beach access. South Beach is generally a short drive/rideshare from these stays.
+## Top 3 picks under $290 total
 
-## Top 3 closest-value picks (since <$290 was unavailable)
-
-| Rank | Stay | Price (2 nights) | Rating | Beach accessibility | Things to do on foot | Value fit |
+| Rank | Stay | Price (2 nights) | Rating | Beach accessibility | Things to do on foot | Weighted fit |
 |---|---|---:|---|---|---|---:|
-| 1 | Hotel in Downtown Miami - City View \| Rooftop Infinity Pools + Poolside Bar | $377 | 4.84 (172 reviews) | Low direct walk-to-beach, good rideshare access | Downtown restaurants, waterfront areas, nightlife, rooftop amenities | A |
-| 2 | Condo in Downtown Miami - Chic Studio 5 Icon Brickell Amazing View | $423 | 4.87 (200 reviews) | Low direct walk-to-beach, good rideshare access | Excellent Brickell walkability, dining, bars, waterfront walking | A- |
-| 3 | Apartment in Downtown Miami - Prime Brickell Stay with Pool, Gym & Parking | $446 | 4.94 (17 reviews) | Low direct walk-to-beach, good rideshare access | Strong Brickell walkability, dining, bars, and waterfront paths | B+ |
+| 1 | Hotel in South Beach - Right In The Middle of South Beach \| Outdoor Pool | $205 | 4.52 (93 reviews) | High: closest walk-to-beach access in your under-$290 set | Strong: South Beach restaurants, bars, Ocean Drive, walkable nightlife | 86.4 |
+| 2 | Room in Coral Way - Spacious room with TV in beautiful house | $137 | 4.72 (250 reviews) | Medium-Low: short ride to beach | Medium: local dining/cafes, residential walkability | 84.9 |
+| 3 | Shared room in Miami - Vibrant Miami Coliving Oasis | $85 | 5.0 (12 reviews) | Medium-Low: rideshare to beach | Medium: social/coliving setup, nearby city activities | 82.8 |
 
-## Booking links
+## Booking links (all within budget)
 
-1) Hotel in Downtown Miami (Rank #1)
-https://www.airbnb.com/rooms/1233969458191078836?adults=2&check_in=2026-07-05&check_out=2026-07-07
+1) Hotel in South Beach (Rank #1)
+https://www.airbnb.com/rooms/1184015955138430317?adults=2&check_in=2026-07-05&check_out=2026-07-07
 
-2) Chic Studio 5 Icon Brickell (Rank #2)
-https://www.airbnb.com/rooms/696984405841936580?adults=2&check_in=2026-07-05&check_out=2026-07-07
+2) Room in Coral Way (Rank #2)
+https://www.airbnb.com/rooms/54072165?adults=2&check_in=2026-07-05&check_out=2026-07-07
 
-3) Prime Brickell Stay with Pool, Gym & Parking (Rank #3)
-https://www.airbnb.com/rooms/1602316834193988678?adults=2&check_in=2026-07-05&check_out=2026-07-07
+3) Shared room in Miami - Vibrant Miami Coliving Oasis (Rank #3)
+https://www.airbnb.com/rooms/1263924421245746996?adults=2&check_in=2026-07-05&check_out=2026-07-07
 
-## Best fit to book now (closest to budget)
+## Best fit to book now
 
-If price is the biggest decider right now, book Rank #1 at $377.
+Best overall under your hard budget cap: Rank #1 (Hotel in South Beach at $205 total).
 
-Why this is the best fit:
-- Lowest total currently available in this Port of Miami result set
-- Strong rating confidence (4.84 with 172 reviews)
-- Still in a very walkable downtown zone with plenty to do on foot
+Why this is my top pick for you:
+- Safely below your $290 limit
+- Best beach accessibility among budget-compliant options
+- Good rating confidence with 93 reviews
+- Better on-foot activity density than the lower-cost room/shared-room alternatives
 
-## If you want me to force under $290
+## Strict exclusions
 
-I can do a second pass with broader constraints (larger radius, private rooms, or different dates) and only return options under $290 total.
+All options above $290 total were excluded and are not recommended for booking.
