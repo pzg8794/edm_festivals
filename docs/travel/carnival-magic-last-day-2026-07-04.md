@@ -83,6 +83,124 @@ Before going to sleep:
 - Do not pack anything needed in the morning.
 - Keep valuables and travel documents in the carry-on.
 
+## Debarkation information
+
+The ship provided a separate debarkation information sheet for departure morning. The key instruction was to review the debarkation information on **Channel 15** of the stateroom TV.
+
+### Know before you go
+
+- Guests should exit the stateroom before **8:30 AM**.
+- Relaxation/waiting areas are available on **Decks 5 and 10**.
+- Bring the **Sail & Sign card** when walking to the gangway.
+- Guests age **16 or older** should have a **passport or birth certificate and picture ID** in hand when entering the terminal.
+- Guests with items to declare should proceed with all luggage to the **Declaration Zone** by following signs and staff guidance.
+- All guests must follow the debarkation instructions delivered to the stateroom.
+- Smoking is not permitted during the refueling operation on debarkation morning.
+
+### Debarkation booking in Carnival HUB
+
+Guests must select one debarkation option in the **Carnival HUB app**:
+
+1. Open Carnival HUB.
+2. Go to the main menu.
+3. Select **Digital Debark**.
+4. Choose the preferred debarkation time or luggage option.
+
+### Option 1: Express Debarkation / Carry Off Your Luggage
+
+Use this option if disembarking early and able to carry all luggage off the ship without assistance.
+
+- Select **Express Debarkation** in the Carnival HUB app.
+- Select all members of the party.
+- Choose a suitable time for the party to debark.
+- This is best for guests who can manage their own bags and want to leave earlier.
+
+### Option 2: Checked Luggage
+
+Use this option if the ship will collect luggage the night before.
+
+- Before **1:00 PM** on the last day, open the Carnival HUB app.
+- Select all members of the party.
+- Choose a suitable debarkation time.
+- Select the number of luggage tags needed, one tag per luggage item.
+- Luggage tags are delivered to the stateroom the day before debarkation.
+- Place tagged luggage outside the stateroom between **8:30 PM and 10:30 PM** on the last night.
+- Tags and debarkation groups are subject to availability.
+
+### Guests with disabilities
+
+- Guests with disabilities who do not require special assistance may use Express Debarkation through the Carnival HUB app and disembark with their own luggage.
+- Guests requiring special assistance debark when their luggage zone number is called through Carnival HUB notifications and are escorted off the ship into the baggage claim area.
+- Due to port regulations, wheelchair escorts are not allowed to assist with baggage handling or collection inside the terminal building.
+- Guests needing wheelchair assistance and not traveling with an able-bodied companion should select **Checked Luggage** in Carnival HUB and choose the option indicating that someone in the party requires assistance.
+- Wheelchair assistance is provided at **Northern Lights Dining Room, Deck 3 Forward**.
+- Rental wheelchairs must be returned before debarkation and cannot be used to get off the ship.
+
+## Debarkation morning schedule
+
+From the debarkation morning sheet:
+
+- **Home port arrival:** **6:30 AM**
+- **Estimated debarkation begins:** **7:30 AM**
+- **Stateroom checkout:** **8:30 AM**
+- **Gangway location:** **Deck 3 Forward**
+- **All guests must be off by:** **9:30 AM**
+
+### Breakfast options on debarkation morning
+
+- **Lido Marketplace:** Deck 10 Aft, **6:00 AM–9:00 AM**.
+- **Breakfast Open Seating:** Southern Lights Restaurant, Deck 3 Aft, **6:30 AM–8:00 AM**.
+- **BlueIguana Cantina:** Lido, Deck 10 Mid, **6:00 AM–9:00 AM**.
+- Room service is not available on debarkation morning.
+
+### Morning coffee and drinks
+
+- **Plaza Cafe:** Deck 5 Mid, **6:00 AM–9:30 AM**.
+- **Casino Annex Bar:** Deck 4 Mid, **6:30 AM–8:30 AM**.
+- **RedFrog Rum Bar:** Lido, Deck 10 Mid, **7:00 AM–9:00 AM**.
+
+### Photos and purchases
+
+- Photos are not available for download or purchase after the cruise.
+- Purchased digital files should be downloaded using a mobile device before leaving.
+- Last-minute digital photo purchases, canvases, and photo prints are available at **Pixels Gallery, Deck 4 Forward**, **7:00 AM–8:45 AM**.
+
+### Sail & Sign account
+
+- Settle outstanding Sail & Sign balances with Guest Services before **9:00 AM** to avoid debarkation delays.
+- Sail & Sign statements remain available in the Carnival HUB app while onboard and for **48 hours after the cruise**.
+- Small overages may be donated to St. Jude Children’s Research Hospital or refunded according to Carnival’s process.
+- Bank holds for onboard purchases may take **3–5 days or more** to release.
+
+### Duty-free allowance notes
+
+If declaring items, proceed to the **Declaration Zone** in the terminal with all luggage.
+
+Listed allowance per guest:
+
+- **$800 total allowance** per guest.
+- **1 liter of alcohol** per person over age 21.
+- **1 carton of cigarettes** per person over age 21.
+- **100 cigars** per person over age 21.
+
+### Transportation
+
+- Carnival airport transportation tickets are available for purchase in the Carnival HUB app, at the Carnival Adventures desk, or at Guest Services until arrival.
+- Transportation is recommended for flights after **12:00 PM for Miami** and **1:00 PM for Fort Lauderdale**.
+- Taxis and other transportation services are available outside the cruise terminal.
+
+## Personal disembarkation plan
+
+Best low-stress plan:
+
+1. Choose debarkation option in the Carnival HUB app before the deadline.
+2. If using checked luggage, request tags before 1:00 PM and place bags outside between 8:30 PM and 10:30 PM.
+3. Keep a carry-on with passport/ID, Sail & Sign card, wallet, phone, charger, medication, toiletries, and next-day outfit.
+4. Wake early enough for breakfast.
+5. Leave the stateroom before 8:30 AM.
+6. Head to the assigned waiting area or directly toward Deck 3 Forward when the debarkation group is called.
+7. Make sure all guests are off the ship before 9:30 AM.
+
 ## Personal reminder
 
 Do not leave packing until after midnight. Enjoy the final night, but protect tomorrow morning from chaos.
